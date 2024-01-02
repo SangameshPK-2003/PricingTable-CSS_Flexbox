@@ -16,5 +16,3 @@ This pricing table is built using CSS Flexbox, a powerful layout model that allo
 6) Scalability: The project is scalable, making it easy to add or modify pricing plans without compromising the layout or responsiveness.
 
 7) Customizable Styling: With the flexibility of Flexbox, the styling of the pricing table is easily customizable to match your brand's aesthetics or color scheme.
-
-*) Accessible and User-Friendly: The design prioritizes accessibility and user experience, providing an intuitive interface for users to navigate and select their preferred pricing plans.
